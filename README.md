@@ -30,7 +30,8 @@ A minimal typing test to measure speed and accuracy with real-time feedback.
 - ✅ Highlighting correct/incorrect characters
 - ✅ Sound effects and reset option
 
-🔗 [Source Code](./qr-generator)
+🔗 [Source Code](./typing_application)
+
 <img width="1680" alt="Image" src="https://github.com/user-attachments/assets/de20a143-f49a-4218-bee2-bb461643ba53" />
 ---
 
