@@ -17,7 +17,7 @@ Generate QR codes from any URL input in real time.
 - ✅ Responsive design
 - ✅ Downloadable QR image
 
-🔗 [Source Code](./qr-generator)
+🔗 [Source Code](./QR)
 <img width="1680" alt="Image" src="https://github.com/user-attachments/assets/18bff126-6163-47e3-82b9-6c4e70ebf0ca" />
 
 
@@ -42,7 +42,7 @@ Useful for building modern, user-friendly interfaces.
 - ✅ Responsive UI
 - ✅ Smooth transitions
 
-🔗 [Source Code](./toggle-light-dark)
+🔗 [Source Code](./dark_mode_toggle)
 <img width="1380" alt="Image" src="https://github.com/user-attachments/assets/e393c25f-3120-472b-98cd-897e56eafb83" />
 
 <img width="1380" alt="Image" src="https://github.com/user-attachments/assets/33fa5d61-a188-4eea-a6a9-0b38bb9a54ec" />
